@@ -1,0 +1,129 @@
+p  {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.footer-nav-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.footer-feedback-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 150%;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+a {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Playfair Display';
+    font-size: 36px;
+    line-height: 150%;
+    color: #282828;
+    margin: 30px 0px;
+}
+
+span {
+    font-size: 48px;
+}
+
+h2 {
+    font-family: 'Playfair Display';
+    font-size: 36px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 60px 0px 40px 0px;
+}
+
+.header-text {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.about-taste {
+    margin: 40px 0px 50px 0px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.about-harvest {
+    color: #282828;
+    max-width: 445px;
+    text-align: left;
+    margin: 0px 0px 35px 0px;
+}
+
+.about-harvest-1 {
+    color: #282828;
+    max-width: 445px;
+    text-align: left;
+    margin: 35px 0px 30px 0px;
+}
+
+.new {
+    color: #282828;
+    margin: 0px;
+    text-align: left;
+}
+
+.year {
+    color: #282828;
+    margin: 0%;
+}
+
+.bottle {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #282828;
+    margin-left: -55px;
+    margin-top: -10px;
+}
+
+.name-wine {
+    font-family: 'Playfair Display';
+    font-size: 18px;
+    color: #282828;
+    margin: 0%;
+    padding: 10px 10px;
+}
+
+.record{
+    margin: -30px auto 40px auto;
+    background-color: #282828;;
+}
+
+.text-record{
+    margin-top: 40px;
+}
